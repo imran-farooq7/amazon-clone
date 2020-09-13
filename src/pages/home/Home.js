@@ -17,12 +17,14 @@ function Home() {
             price="32.99"
             image="https://images-na.ssl-images-amazon.com/images/I/51RDhXlnSAL._AC_US160_.jpg"
             rating={4}
+            id="12321341"
           />
           <Product
             title="SanDisk 256GB Ultra Dual Drive M3.0 for Android Devices and Computers - MicroUSB, USB 3.0 - SDDD3-256G-G46,Black"
             price="33.99"
             image="https://images-na.ssl-images-amazon.com/images/I/41W9koKqmDL._AC_SY400_.jpg"
             rating={5}
+            id="49538094"
           />
         </div>
         <div className="home__row">
@@ -31,18 +33,21 @@ function Home() {
             price="17.99"
             image="https://images-na.ssl-images-amazon.com/images/I/410YzK6cfAL._AC_US218_.jpg"
             rating={5}
+            id="4903850"
           />
           <Product
             title="Brita Standard Replacement Filters for Pitchers and Dispensers, 4ct, White"
             price="17.99"
             image="https://images-na.ssl-images-amazon.com/images/I/31HulTaonOL._AC_US218_.jpg"
             rating={4}
+            id="23445930"
           />
           <Product
             title="Keurig K-Classic Coffee Maker, Single Serve K-Cup Pod Coffee Brewer, 6 to 10 Oz. Brew Sizes, Black"
             price="79.00"
             image="https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL._AC_US218_.jpg"
             rating={5}
+            id="3254354345"
           />
         </div>
         <div className="home__row">
@@ -51,6 +56,7 @@ function Home() {
             price="599.00"
             image="https://images-na.ssl-images-amazon.com/images/I/71WSt8D7KFL._AC_SX679_.jpg"
             rating={5}
+            id="90829332"
           />
         </div>
       </div>

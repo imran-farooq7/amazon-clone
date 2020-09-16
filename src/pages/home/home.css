@@ -1,7 +1,9 @@
 /* .home__container {
   /* max-width: 1500px; */
 /* justify-content: center; */
-
+.home {
+  background-color: lightgray;
+}
 .home__banner {
   z-index: -1;
   width: 100%;
